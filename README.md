@@ -1,3 +1,6 @@
+
+![Original on Transparent](https://user-images.githubusercontent.com/81633985/122676303-dd8e4c00-d1dd-11eb-9d82-0eabfe3829dc.png)
+
 Hola! soy Marcela Chuqi
 
 Estudiante de Front-end en Adalab, 
@@ -7,7 +10,6 @@ Como parte del desarrollo personal y profesional se nos ha propuesto craer un pr
 Para poneros un poco en contexto, he decidido mezclar mi nueva pasión, React y CSS, con lo que he venido haciendo hasta ahora LOVE DELIVERing!, os explico más...
 
 Mis objetivos personales con este proyecto son:
-
 Mejorar mis conocimientos de CSS.
 Mejorar mis conocimientos de JavaScript y React.
 Realización de llamadas a un API para busqeda de canciones. 
@@ -26,8 +28,10 @@ Una vez finalizado el llenado de la caja, la persona podrá dejar un VOICE NOTE!
 Quiero que coja el listado de alumnas de la herramienta Airtable (herramienta donde guardamos toda la información de las alumnas).
 Quiero que al pulsar en el botón Guardar la caja y la nota de voz / o canción elegida y pueda enviarse o guardarse para enviar a un amig@ o persona especial que recibirá esa super VIRTUAL GIFT BOX (llena de love) a un email como archivo. 
 Fases o sprints del proyecto.
+______________________________________________________________
 
-Aquí os dejo el diseño (idea ppal , no definida asi del todo)>>>>>> Sketch: [OMW.project.-.Adalab.pdf](https://github.com/marcelachuqi/personalProject/files/6682441/OMW.project.-.Adalab.pdf)
+Aquí os dejo el diseño (idea ppal , no definida asi del todo)>>>>>> Sketch: [OMW.project.-.Adalab.pdf]
+(https://github.com/marcelachuqi/personalProject/files/6682441/OMW.project.-.Adalab.pdf)
 
 
 Grabador de voz: http://127.0.0.1:5500/Index.html.   de repositorio>>  [Uploading Index.html…]() .
