@@ -1,5 +1,5 @@
+![Email Signature Logo](https://user-images.githubusercontent.com/81633985/122676378-21815100-d1de-11eb-8e24-0091a148cd3a.png)
 
-![Original on Transparent](https://user-images.githubusercontent.com/81633985/122676303-dd8e4c00-d1dd-11eb-9d82-0eabfe3829dc.png)
 
 Hola! soy Marcela Chuqi
 
