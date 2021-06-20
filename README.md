@@ -1,4 +1,5 @@
-![Email Signature Logo](https://user-images.githubusercontent.com/81633985/122676378-21815100-d1de-11eb-8e24-0091a148cd3a.png)
+
+![Watermark Small](https://user-images.githubusercontent.com/81633985/122676399-3827a800-d1de-11eb-86bf-988afa7c96c0.png)
 
 
 Hola! soy Marcela Chuqi
