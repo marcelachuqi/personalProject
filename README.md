@@ -13,7 +13,7 @@ Para poneros un poco en contexto, he decidido mezclar mi nueva pasión, React y 
 Mis objetivos personales con este proyecto son:
 Mejorar mis conocimientos de CSS.
 Mejorar mis conocimientos de JavaScript y React.
-Realización de llamadas a un API para busqeda de canciones. 
+Realización de llamadas a un API para búsqueda de canciones. 
 Realizar una interfaz de usuario dinámica.
 Clonar un proyecto para uso de Grabadora de Audio. Tras revision de valoración. 
 Objetivo del proyecto
