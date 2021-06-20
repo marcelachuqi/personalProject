@@ -27,8 +27,9 @@ Quiero que coja el listado de alumnas de la herramienta Airtable (herramienta do
 Quiero que al pulsar en el botón Guardar la caja y la nota de voz / o canción elegida y pueda enviarse o guardarse para enviar a un amig@ o persona especial que recibirá esa super VIRTUAL GIFT BOX (llena de love) a un email como archivo. 
 Fases o sprints del proyecto.
 
-Aquí os dejo Sketch:[OMW project - Adalab.pdf](https://github.com/marcelachuqi/personalProject/files/6682428/OMW.project.-.Adalab.pdf)
+Aquí os dejo el diseño (idea ppal , no definida asi del todo)>>>>>> Sketch:[OMW project - Adalab.pdf]
 
-
+Grabador de voz:  [Uploading Index.html…]() de un repositorio.
+ 
 
 Web de Oh! MY WORLD, www.oh-myworld.com del cual llevo 2 años con éste emprendimiento y veo super interesante el poder crear un proyecto que sería para OMW! un valor agregado y para mi crecimiento como FRONTend DEVELOPER!!! en ADALAB, de manera que las personas no solo envien cajas "reales" si no tambien virtuales y por mi parte me divierto creando una web entretenida y llena de muchos buenos deseos :) 
