@@ -30,7 +30,7 @@ Fases o sprints del proyecto.
 Aquí os dejo el diseño (idea ppal , no definida asi del todo)>>>>>> Sketch: [OMW.project.-.Adalab.pdf](https://github.com/marcelachuqi/personalProject/files/6682441/OMW.project.-.Adalab.pdf)
 
 
-Grabador de voz:  [Uploading Index.html…]() de un repositorio.
+Grabador de voz: http://127.0.0.1:5500/Index.html.   de repositorio>>  [Uploading Index.html…]() .
  
 
 Web de Oh! MY WORLD, www.oh-myworld.com del cual llevo 2 años con éste emprendimiento y veo super interesante el poder crear un proyecto que sería para OMW! un valor agregado y para mi crecimiento como FRONTend DEVELOPER!!! en ADALAB, de manera que las personas no solo envien cajas "reales" si no tambien virtuales y por mi parte me divierto creando una web entretenida y llena de muchos buenos deseos :) 
