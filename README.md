@@ -31,8 +31,8 @@ Quiero que al pulsar en el botón Guardar la caja y la nota de voz / o canción 
 Fases o sprints del proyecto.
 ______________________________________________________________
 
-Aquí os dejo el diseño (idea ppal , no definida asi del todo)>>>>>> Sketch: [OMW.project.-.Adalab.pdf]
-(https://github.com/marcelachuqi/personalProject/files/6682441/OMW.project.-.Adalab.pdf)
+Aquí os dejo el diseño (idea ppal , no definida asi del todo)>>>>>> Sketch: [OMW project - Adalab.pdf](https://github.com/marcelachuqi/personalProject/files/6687372/OMW.project.-.Adalab.pdf)
+
 
 
 Grabador de voz: http://127.0.0.1:5500/Index.html.   de repositorio>>  [Uploading Index.html…]() .
